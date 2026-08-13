@@ -1,4 +1,4 @@
-# OWASP Top 10 for LLM & Agentic Applications — Hands-On Security Lab
+# OWASP Top 10 for LLM & Agentic Applications - Hands-On Security Lab
 
 A personal learning project testing OWASP's **Top 10 for LLM Applications (2026)** and **Top 10 for Agentic Applications (2026)** hands-on, using a locally-run open-weight model (via [Ollama](https://ollama.com)) as the target and a small Python/HTML test harness to actually attempt each attack pattern rather than just read about it.
 
