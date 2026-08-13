@@ -4,6 +4,8 @@ A personal learning project testing OWASP's **Top 10 for LLM Applications (2026)
 
 No cloud API keys required to run this. Everything here runs entirely on your own machine, against your own local model, with synthetic data.
 
+For LLM Tool and Findings please go over to other branches in this repo. 
+
 ## Why this exists
 
 Reading the OWASP LLM Top 10 and Agentic Top 10 documents is a good start, but security concepts stick a lot better once you've actually tried to break something yourself. This repo is my running log of doing exactly that - one vulnerability pattern at a time, starting with **LLM01: Prompt Injection**.
